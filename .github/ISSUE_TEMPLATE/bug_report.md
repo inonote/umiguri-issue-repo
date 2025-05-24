@@ -32,4 +32,4 @@ If applicable, add screenshots to help explain your problem.
 **Additional context**
 Add any other context about the problem here.
 
-*A bug related to umiguri should be tagged with umiguri, and a bug related to margrete should be tagged with margrete.*
+*Please label bugs related to umiguri with the umiguri label, and bugs related to margrete with the margrete label.*
